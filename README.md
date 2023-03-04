@@ -14,19 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### I can speak Chinese/English~~(Chinglish~~)🤐
+#### I can speak Chinese/English ~~(Chinglish)~~ 🤐
 *excuse me,my English is poor*
 
 ------------
 
  - 📚 我正在学习🐧Linux和🐍Python
  - 📚 I'm learning 🐧Linux and 🐍Python
- 
- 
  - 💬 用[TG](https://t.me/imxingyus "TG")联系，或者电邮imxingyus@gmail.com
  - 💬 PM me at [TG](https://t.me/imxingyus "TG") or E-mail me at imxingyus@gmail.com
 
 ------------
 
-*还在努力*
+*还在努力*<br/>
 *STILL HARDWORKING*
